@@ -140,7 +140,7 @@ ul{
 
 @media (min-width: 700px){
     #cards{
-        max-width: 670px;
+        max-width: 1050px;
         flex-direction: row;
         flex-wrap: wrap;
     }
